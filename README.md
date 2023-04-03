@@ -13,3 +13,6 @@ This is a simple BlackJack game created with Vanilla Javascript, HTML, and CSS
 * If the player total is greater than the dealer, the player wins
 * If the dealer total is greater than the player, the dealer wins.
 * If the dealer and the player total is the same, the game is a tie.
+
+## Sources
+Game makes use of https://deckofcardsapi.com/
